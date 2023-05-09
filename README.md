@@ -3,7 +3,8 @@
 - [KiCad 6.0.11 für Windows x64](https://downloads.kicad.org/kicad/windows/explore/stable/download/kicad-6.0.11-x86_64.exe)
 
 ## Herunterladen des Projektes
-- Klickt auf den grünen Button "<> Code" und wählt "Download Zip"
+- Klickt auf den grünen Button "<> Code" und wählt "Download Zip" 
+  - das ist das einfachste, auch wen dabei die Bilder und die README mitkommen - das könnt ihr dann weglöschen, ihr braucht nur den Ordner "Uebung"
 
 ## mit KiCad bearbeiten
 - "File" -> "Open project"
