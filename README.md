@@ -4,7 +4,7 @@
 
 ## Herunterladen des Projektes
 - Klickt auf den grünen Button "<> Code" und wählt "Download Zip" 
-  - das ist das einfachste, auch wen dabei die Bilder und die README mitkommen - das könnt ihr dann weglöschen, ihr braucht nur den Ordner "Uebung"
+  - das ist das einfachste, auch wenn dabei die Bilder und die README mitkommen - das könnt ihr dann weglöschen, ihr braucht nur den Ordner "Uebung"
 
 ## mit KiCad bearbeiten
 - "File" -> "Open project"
