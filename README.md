@@ -3,7 +3,7 @@
 Hier sind die Quelldateien für das Projekt Bewässerung
 
 ## webSteuerung
-Hier sind die Quelldateinen mit der eine Websteuerung realisiert werden kann
+Hier sind die Quelldateien mit der eine Websteuerung realisiert werden kann
 
 ## Uebung (KiCad) 
 ### KiCad herunterladen
