@@ -1,0 +1,9 @@
+RND 155HP06 DL SMD-Widerstand, 1206, 510 kOhm (zu klein?)
+RND 155HP06 AI SMD-Widerstand, 1206, 11 kOhm
+RND 155HP06 EK SMD-Widerstand, 1206, 820 kOhm
+
+RND 1551206 AJ SMD-Widerstand, 1206, 330 Ohm
+RND 1551206 AL SMD-Widerstand, 1206, 470 Ohm
+RND 1551206 AU SMD-Widerstand, 1206, 100 kOhm
+RND 1551206 AE SMD-Widerstand, 1206, 33 Ohm
+RND 1551206 AT SMD-Widerstand, 1206, 47 kOhm
