@@ -12,10 +12,8 @@ WiFiServer server(80);
 String header;
 // Declare the pins to which the LEDs are connected
 
-#define LED_R0T    16
-#define LED_GRUEN  17
-//#define LED_R0T    21
-//#define LED_GRUEN  20
+#define LED_R0T    21
+#define LED_GRUEN  20
 
 String greenstate = "off";// state of green LED
 String redstate = "off";// state of red LED
