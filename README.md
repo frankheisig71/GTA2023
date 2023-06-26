@@ -1,5 +1,5 @@
 # GTA2023
-## Feuchtigkeitssensor
+## Bewaesserung
 Hier sind die Quelldateien für das Projekt Bewässerung
 
 ## webSteuerung
