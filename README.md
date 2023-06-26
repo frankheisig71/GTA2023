@@ -1,12 +1,12 @@
 # GTA2023
-##Feuchtigkeitssensor
+## Feuchtigkeitssensor
 Hier sind die Quelldateien für das Projekt Bewässerung
 
-##Steuerung per Web
+## Steuerung per Web
 Hier sind die Quelldateinen mit der eine Websteuerung realisiert werden kann
 
-##Uebung (KiCad) 
-###KiCad herunterladen
+## Uebung (KiCad) 
+### KiCad herunterladen
 - [KiCad 6.0.11 für Windows x64](https://downloads.kicad.org/kicad/windows/explore/stable/download/kicad-6.0.11-x86_64.exe)
 
 ### Herunterladen des Projektes
