@@ -2,7 +2,7 @@
 ## Feuchtigkeitssensor
 Hier sind die Quelldateien für das Projekt Bewässerung
 
-## Steuerung per Web
+## webSteuerung
 Hier sind die Quelldateinen mit der eine Websteuerung realisiert werden kann
 
 ## Uebung (KiCad) 
