@@ -1,2 +1,2 @@
 # Schaltpläne und Leiterplatte
-Mit KLiCad erstellt
+Mit KiCad erstellt
